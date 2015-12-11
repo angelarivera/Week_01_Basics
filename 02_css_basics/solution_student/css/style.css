@@ -1,0 +1,41 @@
+/*body {
+  color: #fff;
+  background: #1695a3;
+}
+
+p {
+  color: #eb7f00;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}*/
+
+body {
+	background-color: #1695A3;
+	color: #FFFFFF;
+}
+
+p {
+	color: #EB7F00;
+	font-weight: bold;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
